@@ -3,7 +3,7 @@
 
 <biblioteca>
     <libro id="l1">
-        <titulo>Don Quijote de la Mancha</titulo>
+        <titulo>Don Quijote de la Manchaa</titulo>
         <autor>Miguel de Cervantes</autor>
         <anio>1605</anio>
         <paginas>863</paginas>
